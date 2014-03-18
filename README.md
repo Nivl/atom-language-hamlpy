@@ -1,4 +1,3 @@
-atom-language-hamlpy
-====================
+# language-hamlpy package
 
-Hamlpy support for Github's Atom
+A short description of your package.
