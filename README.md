@@ -1,3 +1,3 @@
 # language-hamlpy package
 
-A short description of your package.
+[Hamlpy](https://github.com/jessemiller/HamlPy) support for Github's Atom
