@@ -1,6 +1,6 @@
 {
   "name": "language-hamlpy",
-  "version": "1.0.0",
+  "version": "0.0.0",
   "description": "Hamlpy support for Github's Atom",
   "repository": "https://github.com/Nivl/atom-language-hamlpy",
   "license": "MIT",
